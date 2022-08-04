@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **choevictory@gmail.com**
 
+![HAAARDDDD CODDEEEEE](https://github-readme-stats.vercel.app/api?username=seungrii&count_private=true&theme=vue-dark&show_icons=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
