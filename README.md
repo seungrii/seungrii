@@ -9,7 +9,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungrii)](https://github.com/seungrii/github-readme-stats)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
