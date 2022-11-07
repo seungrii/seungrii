@@ -1,8 +1,15 @@
 <h1 align="center">🐤seungri💻</h1>
+ 
 <a align="center" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungrii&count_bg=%23BC8BE7&title_bg=%23555555&icon=github.svg&icon_color=%23FDFDFD&title=Github&edge_flat=false"/></a>
 
+<a href="https://www.instagram.com/ciozi84/">
+<img 
+   src="http://img.shields.io/badge/-instagram-lightgrey?style=flat&logo=instagram&link=https://www.instagram.com/ciozi84/"
+   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-📫 How to reach me **choevictory@gmail.com**
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choevictory@gmail.com)](mailto:choevictory@gmail.com)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungrii&theme=buefy)](https://github.com/seungrii/github-readme-stats)
 
