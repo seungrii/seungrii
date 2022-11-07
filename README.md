@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHOE SEUNG RI</h1>
+<h1 align="center">Hi 👋, I'm SEUNG RI</h1>
 <h3 align="center">개발 공부중...</h3>
 
 - 📫 How to reach me **choevictory@gmail.com**
