@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm SEUNG RI</h1>
 <h3 align="center">개발 공부중...</h3>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungrii&count_bg=%23BC8BE7&title_bg=%23555555&icon=github.svg&icon_color=%23FDFDFD&title=Github&edge_flat=false"/></a>
+
+
 - 📫 How to reach me **choevictory@gmail.com**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungrii)](https://github.com/seungrii/github-readme-stats)
