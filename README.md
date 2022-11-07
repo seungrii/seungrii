@@ -3,6 +3,7 @@
 <div align="center">
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungrii&count_bg=%23BC8BE7&title_bg=%23555555&icon=github.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false"/></a>
 </div>
+
 <br>
 <h3 align="center">📪 Follow Me 📪</h3>
 <p align="center">
@@ -19,6 +20,15 @@
  <div align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungrii&layout=compact)](https://github.com/seungrii/github-readme-stats)
+</div>
+<br>
+
+
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungri)](https://solved.ac/seungri/)
+
 </div>
 <br>
 
