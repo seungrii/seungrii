@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=높이&section=header&text=Hi 👋, I'm SEUNG RI&fontSize=폰트크기)
+
+
 <h1 align="center">Hi 👋, I'm SEUNG RI</h1>
 <h3 align="center">개발 공부중...</h3>
 
